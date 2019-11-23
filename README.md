@@ -1,6 +1,6 @@
 
 # Action Detection 
-Action Recognition is ipython notebook contains all steps of training action recognition model with optical flow and single person tracking 
+Action Detection is ipython notebook contains all steps of training action recognition model with optical flow and single person tracking 
 
 ****Requirements****
  - [Python](https://www.python.org/) 3.*
@@ -14,7 +14,7 @@ Action Recognition is ipython notebook contains all steps of training action rec
  - [Matplotlib](https://matplotlib.org)
    
 ## Dataset
-* [MERL_Shopping_Dataset](ftp://ftp.merl.com/pub/tmarks/MERL_Shopping_Dataset)
+*  [MERL_Shopping_Dataset](ftp://ftp.merl.com/pub/tmarks/MERL_Shopping_Dataset)
 
 # About 
 the implementation of the model was based on on [A Multi-Stream Bi-Directional Recurrent Neural Network for Fine-Grained Action Detection](http://www.merl.com/publications/docs/TR2016-080.pdf) paper
@@ -38,7 +38,7 @@ the problem w faced at this point was the output of the repo wasn't good enough 
 ## Projection layer
 ![projection layer](https://github.com/DiaaZiada/action-detection/blob/master/image/Screenshot%20from%202019-11-23%2012-34-00.png)
 
-## Action Recognition
+## Action Detection
 for this part we peruse [Action Recognition](https://github.com/eriklindernoren/Action-Recognition) repo.
 model consist of:
 
